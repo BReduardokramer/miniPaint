@@ -1,6 +1,6 @@
 miniPaint - Online graphics editing tool using HTML5.
 
-Demo: http://viliusle.github.io/miniPaint/
+Demo: https://developer.cdn.mozilla.net/media/uploads/demos/v/i/viliusl/66924b4d3bff8b1c0abecfd52e72407f/minipaint_1375196685_demo_package/index.html; http://viliusle.github.io/miniPaint/
 
 License: GPL
 
@@ -25,3 +25,6 @@ Harmony - http://ricardocabello.com/blog/post/689
 glfx.js - http://evanw.github.io/glfx.js/
 exif.js - https://github.com/jseidelin/exif-js
 ImageFilters.js - https://github.com/arahaya/ImageFilters.js
+
+
+Lançado oficialmente em 11 de outubro de 2014 - 06:32 pm
